@@ -1,1 +1,1 @@
-include ':app', ':progressloading'
+include ':sample', ':progressloading'
